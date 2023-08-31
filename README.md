@@ -34,6 +34,7 @@ The second element: blue text and a font size of 36px
 The third element: in addition to the styles for all odd numbered elements, add a font size of 24px
 The fourth element: a light green background, a font size of 24px, and bold
 
+### Output of my work
 ![Alt text](<Outcome 2.png>)
 
 ***
@@ -52,3 +53,7 @@ This will help you further practice adding classes and using class selectors, so
 - The first element: a black background and white text
 - The second element: a yellow background
 - Both elements: a font size of 28px and a list of fonts containing Helvetica and Times New Roman, with sans-serif as a fallback
+
+### Output of my work
+
+![Alt text](<Outcome 3.png>)
