@@ -33,3 +33,11 @@ All odd numbered elements: a light red/pink background, and a list of fonts cont
 The second element: blue text and a font size of 36px
 The third element: in addition to the styles for all odd numbered elements, add a font size of 24px
 The fourth element: a light green background, a font size of 24px, and bold
+
+![Alt text](<Outcome 2.png>)
+
+***
+***
+
+
+***
