@@ -15,3 +15,5 @@ There are three elements for you to add styles to, each of which uses a differen
 - p: a green background, white text, and a font size of 18px
 - button: an orange background and a font size of 18px
 
+### Output of my work
+![Alt text](<Outcome 1.png>)
