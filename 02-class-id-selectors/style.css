@@ -1,0 +1,16 @@
+.c1 {
+    background-color: pink;
+    font:Verdana DejaVu Sans sans-serif;
+}
+#i1 {
+    color:blue;
+    font-size: 36px;
+}
+.c1.d1{
+    font-size: 24px;
+}
+#i2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
