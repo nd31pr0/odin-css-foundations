@@ -1,0 +1,11 @@
+.el1, .el2 {
+    font-size: 28px;
+    font: Helvetica Times New Roman with sans-serif;
+}
+.el1 {
+    background-color: black;
+    color: white;
+}
+.el2 {
+    background-color: yellow;
+}
