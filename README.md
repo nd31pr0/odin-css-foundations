@@ -123,3 +123,7 @@ There are a few elements that have some sort of specificity or rule order issue 
 There are multiple ways to solve this exercise, and we did our best to include all of the possible solutions for each element.
 
 Issues with the cascade can be the bane of their existence for many when it comes to CSS. While you won't become a cascade expert from this exercise alone, and there are other ways to deal with these issues, it is still super helpful to see how these issues affect our final styles and why it's important to order rules carefully.
+
+### Output of my work
+
+![Alt text](<Outcome 6.png>)
