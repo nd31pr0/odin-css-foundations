@@ -16,7 +16,7 @@ There are three elements for you to add styles to, each of which uses a differen
 - button: an orange background and a font size of 18px
 
 ### Output of my work
-![Alt text](<Outcome 1.png>)
+![output for ex 1](<outputs/Outcome 1.png>)
 
 ***
 ***
@@ -35,7 +35,7 @@ The third element: in addition to the styles for all odd numbered elements, add 
 The fourth element: a light green background, a font size of 24px, and bold
 
 ### Output of my work
-![Alt text](<Outcome 2.png>)
+![output ex 2](<outputs/Outcome 2.png>)
 
 ***
 ***
@@ -56,7 +56,7 @@ This will help you further practice adding classes and using class selectors, so
 
 ### Output of my work
 
-![Alt text](<Outcome 3.png>)
+![output for ex 3](<outputs/Outcome 3.png>)
 
 ***
 ***
@@ -81,7 +81,7 @@ The properties you need to add to each element are:
 
 ### Output of my work
 
-![Alt text](<Outcome 4.png>)
+![Output img for ex 4](<outputs/Outcome 4.png>)
 
 ***
 ***
@@ -103,7 +103,7 @@ The properties you need to add are:
 
 ### Output of my work
 
-![Alt text](<Outcome 5.png>)
+![output img for ex 5](<outputs/Outcome 5.png>)
 
 
 ***
@@ -126,4 +126,4 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 ### Output of my work
 
-![Alt text](<Outcome 6.png>)
+![output img for ex 6](<outputs/Outcome 6.png>)
