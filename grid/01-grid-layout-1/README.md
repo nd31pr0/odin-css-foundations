@@ -8,7 +8,7 @@ Now it's time to practice the Grid tools we've learned and create a layout that 
 
 ## Desired Outcome
 
-![desired output](desired-output.png)
+![desired output](images/desired-output.png)
 
 
 # Self Check
