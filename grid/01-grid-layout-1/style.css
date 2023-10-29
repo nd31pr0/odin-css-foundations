@@ -11,7 +11,7 @@ html {
   box-sizing: border-box;
   display: grid;
   grid-template-columns: 310px 1230px;
-  grid-template-rows: 100px 100px 400px 100px;
+  grid-template-rows: 90px 90px 450px 90px;
   grid-gap: 15px;
 }
 
