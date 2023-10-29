@@ -11,7 +11,7 @@ Now it's time to practice the Grid tools we've learned and create a layout that 
 ![desired output](images/desired-output.png)
 
 
-# Self Check
+## Self Check
 - The gap is 15px
 - The grid has two columns
 - The grid has four rows
@@ -20,3 +20,7 @@ Now it's time to practice the Grid tools we've learned and create a layout that 
 - The header and footer elements span across both columns
 - The sidebar element only spans across the first column
 - The nav and article elements span across the second column
+
+
+## My Ouput Snapshot
+![my output](images/my_output.png)
