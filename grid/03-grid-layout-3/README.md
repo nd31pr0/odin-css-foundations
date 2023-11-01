@@ -25,3 +25,8 @@ Now that you've made your Holy Grail layout responsive, we are going to have som
 - The header and footer span across both columns
 - The sidebar only spans across the first column
 - The nav and article elements only span across the second column
+
+## My output
+![output image 1](<output/Screenshot 2023-11-01 at 10.50.57.png>)
+
+![lower part of output](<output/Screenshot 2023-11-01 at 10.51.11.png>)
